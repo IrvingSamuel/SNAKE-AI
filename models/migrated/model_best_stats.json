@@ -1,0 +1,18 @@
+{
+  "original_file": "models\\model_best.pth",
+  "n_games": 1,
+  "record": 10,
+  "scores": [
+    10
+  ],
+  "mean_scores": [
+    10.0
+  ],
+  "total_score": 10,
+  "epsilon": 1.0,
+  "migration_date": "2025-10-29T12:06:32.906583",
+  "old_state_size": 11,
+  "new_state_size": 28,
+  "old_hidden_size": 256,
+  "new_hidden_size": 512
+}

@@ -1,0 +1,14 @@
+{
+  "original_file": "models\\model_game_1.pth",
+  "n_games": 1,
+  "record": 0,
+  "scores": [],
+  "mean_scores": [],
+  "total_score": 0,
+  "epsilon": 1.0,
+  "migration_date": "2025-10-29T12:06:32.923178",
+  "old_state_size": 11,
+  "new_state_size": 28,
+  "old_hidden_size": 256,
+  "new_hidden_size": 512
+}

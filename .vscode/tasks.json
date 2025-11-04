@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Test Snake AI",
+			"type": "shell",
+			"command": "python main.py --check-deps",
+			"isBackground": false,
+			"group": "test"
+		}
+	]
+}
