@@ -1,4 +1,4 @@
-# Snake AI - Jogo da Cobrinha com Rede Neural IA Avançada
+# Snake AI - Jogo da Cobrinha com Rede Neural IA Avançada by Irving Samuel
 
 Um jogo da cobrinha implementado em Python onde uma rede neural **avançada** aprende a jogar usando aprendizado por reforço (Deep Q-Learning). O projeto foi **significativamente melhorado** com um sistema de estado expandido e arquitetura neural mais robusta.
 
